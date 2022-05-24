@@ -67,6 +67,7 @@ CIRCUIT DIAGRAM
 
 
 ### PROGRAM :
+```
 
  #include<Servo.h>
 Servo s1;
@@ -89,16 +90,10 @@ void loop()
   }
     
   }
+  ```
 # Output
-
- 
-
-
-
-
-
-
-
+![img1](https://user-images.githubusercontent.com/94508142/170073969-a14bc34f-573b-41d0-a3ef-3a0ea94aefc6.png)
+![img2](https://user-images.githubusercontent.com/94508142/170074017-43a88b9f-ed20-47e8-99b2-aabda02ef658.png)
 
 
 ### RESULTS: 
